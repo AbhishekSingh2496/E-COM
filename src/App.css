@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.Arr1{
+    height:1600px;
+    overflow-y: hidden;
+}
+.Arr2{
+    height:1600px;
+    overflow: hidden;
+}
